@@ -20,9 +20,7 @@ Navigation = React.createClass({
 		                    <li>
 		                        <a href="#services">Services</a>
 		                    </li>
-		                    <li>
-		                        <a href="#contact">Contact</a>
-		                    </li>
+	                    	<UseraccountsNav />
 		                </ul>
 		            </div>
 		        </div>
